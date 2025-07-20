@@ -21,10 +21,10 @@ Travelin est une application web et mobile innovante qui utilise l'intelligence 
 ### Frontend
 - **Vue.js 3** (Composition API)
 - **TypeScript**
-- **Laravel Framework**
 
 ### Backend
 - **FastAPI** (Python)
+- **Laravel Framework**
 - **Machine Learning** : scikit-learn, pandas, numpy
 - **Vectorisation** : TF-IDF pour l'analyse de texte
 - **Base de données** : MySQL/laragon
@@ -41,6 +41,7 @@ Travelin est une application web et mobile innovante qui utilise l'intelligence 
 - Node.js 16+
 - Python 3.8+
 - npm ou yarn
+- Laravel 9+
 
 ### Frontend
 ```bash
